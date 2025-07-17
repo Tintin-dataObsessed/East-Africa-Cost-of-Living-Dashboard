@@ -1,1 +1,1 @@
-# East-Africa-Cost-of-Living-Dashboard
+# Cost of Living Across East Africa: An Interactive Dashboard
